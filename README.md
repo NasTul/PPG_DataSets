@@ -20,7 +20,7 @@ We list here the dominant publicly available datasets used in PPG biometrics.
 
 **Vortal**: https://peterhcharlton.github.io/RRest/vortal_dataset.html
 
-**MIMIC III**: https://physionet.org/content/mimiciii/1.4/
+**BIDMC**: https://www.physionet.org/content/bidmc/1.0.0/
 
 **Vortal**: https://peterhcharlton.github.io/RRest/vortal_dataset.html
 
